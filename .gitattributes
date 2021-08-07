@@ -1,1 +1,6 @@
-datasets/database.sqlite filter=lfs diff=lfs merge=lfs -text
+datasets/database/2017PDPDatabase/PDP17Results.txt filter=lfs diff=lfs merge=lfs -text
+datasets/database/2018PDPDatabase/PDP18Results.txt filter=lfs diff=lfs merge=lfs -text
+datasets/database/2019PDPDatabase/PDP19Results.txt filter=lfs diff=lfs merge=lfs -text
+datasets/database/2015PDPDatabase/PDP15Results.txt filter=lfs diff=lfs merge=lfs -text
+datasets/database/2016PDPDatabase/PDP16Results.txt filter=lfs diff=lfs merge=lfs -text
+datasets/database/database.sqlite filter=lfs diff=lfs merge=lfs -text
