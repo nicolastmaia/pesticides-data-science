@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://github.com/joncutrer/geopandas-tutorial/blob/master/data/usa-states-census-2014.shp
+HostUrl=https://raw.githubusercontent.com/joncutrer/geopandas-tutorial/master/data/usa-states-census-2014.shp
